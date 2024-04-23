@@ -1,0 +1,93 @@
+#t1{
+    border: 2px solid;
+    width: 200px;
+    height: 300px;
+    text-align: center;
+    line-height: 100px;
+    position: absolute;
+}
+#t1>#div1{
+    background-color: blue;
+    width: 100px;
+    height: 100px;
+    border: 2px solid;
+}
+#t1>#div2{
+    background-color: greenyellow;
+    width: 100px;
+    height: 100px;
+    border: 2px solid;
+}
+#t1>#div3{
+    background-color: blue;
+    width: 100px;
+    height: 100px;
+    border: 2px solid;
+}
+#t2{
+    border: 2px solid;
+    width: 200px;
+    height: 300px;
+    text-align: center;
+    line-height: 100px;
+    position: absolute;
+    left: 210px;
+}
+#t2>#div1{
+    background-color: blue;
+    width: 100px;
+    height: 100px;
+    border: 2px solid;
+    position: absolute;
+}
+#t2>#div2{
+    background-color: greenyellow;
+    width: 100px;
+    height: 100px;
+    border: 2px solid;
+    position: absolute;
+    top: 130px;
+    left: 30px;
+}
+#t2>#div3{
+    background-color: blue;
+    width: 100px;
+    height: 100px;
+    border: 2px solid;
+    position: absolute;
+    bottom: 0%;
+}
+#t3{
+    border: 2px solid;
+    width: 200px;
+    height: 300px;
+    text-align: center;
+    line-height: 100px;
+    position: relative;
+    left: 400px;
+    top: 0%;
+}
+#t3>#div1{
+    background-color: blue;
+    width: 100px;
+    height: 100px;
+    border: 2px solid;
+    position: absolute;
+}
+#t3>#div2{
+    background-color: greenyellow;
+    width: 100px;
+    height: 100px;
+    border: 2px solid;
+    position: absolute;
+    top: 100px;
+    left: 100px;
+}
+#t3>#div3{
+    background-color: blue;
+    width: 100px;
+    height: 100px;
+    border: 2px solid;
+    position: absolute;
+    top: 100px;
+}

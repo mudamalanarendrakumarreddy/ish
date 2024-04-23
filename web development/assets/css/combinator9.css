@@ -1,0 +1,80 @@
+#t1>#div1{
+    background-color: teal;
+    border-radius: 20px;
+    list-style-type: none;
+    justify-content: space-evenly;
+    display: flex;
+}
+#t2>#div1{
+    background-color: darkslategrey;
+    border-radius: 20px;
+    list-style-type: none;
+    justify-content: space-evenly;
+    display: flex;
+}
+#t3>#div1{
+    background-color: goldenrod;
+    border-radius: 20px;
+    list-style-type: none;
+    justify-content: space-evenly;
+    display: flex;
+}
+#t4>#div1{
+    background-color: greenyellow;
+    border-radius: 20px;
+    list-style-type: none;
+    justify-content: space-evenly;
+    display: flex;
+}
+#t5>#div1{
+    background-color: teal;
+    border-radius: 20px;
+    list-style-type: none;
+    justify-content: space-evenly;
+    display: flex;
+}
+#t6>#div1{
+    background-color: darkslategrey;
+    border-radius: 20px;
+    list-style-type: none;
+    justify-content: space-evenly;
+    display: flex;
+}
+#t7>#div1{
+    background-color: goldenrod;
+    border-radius: 20px;
+    list-style-type: none;
+    justify-content: space-evenly;
+    display: flex;
+}
+#t8>#div1{
+    background-color: greenyellow;
+    border-radius: 20px;
+    list-style-type: none;
+    justify-content: space-evenly;
+    display: flex;
+}
+#t1>#div1>li>input{
+    border-radius:20px;
+}
+#t2>#div1>li>input{
+    border-radius:20px;
+}
+#t3>#div1>li>input{
+    border-radius:20px;
+}
+#t4>#div1>li>input{
+    border-radius:20px;
+}
+#t5>#div1>li>input{
+    border-radius:20px;
+}
+#t6>#div1>li>input{
+    border-radius:20px;
+}
+#t7>#div1>li>input{
+    border-radius:20px;
+}
+#t8>#div1>li>input{
+    border-radius:20px;
+}

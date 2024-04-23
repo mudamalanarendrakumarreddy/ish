@@ -1,0 +1,11 @@
+#t1{
+    background-color: yellow;
+    text-align: center;
+    height: 200px;
+    
+}
+#t1>#div3{
+    background-color:hotpink;
+    width: 200px;
+    margin-left: 310px;
+}

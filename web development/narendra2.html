@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Forms</title>
+</head>
+<body>
+    <fieldset>
+        <form action="/audio.html">
+            <h1>Travel reservation form</h1>
+            <h2>* denotes mandotory</h2>
+            <label for="Full Name*:">Full Name*:</label><br>
+            <input type="text" required placeholder="Firstname Lastname">
+            <br><br>
+            <label for="Email address*:">Email address*:</label><br>
+            <input type="text" required placeholder="Email address">
+            <br><br>
+            <label for="Select Tour Package*:">Select Tour Package*:</label><br>
+            <input type="text" list="select tour">
+            <select name="tour" id="">
+            <option value="araku">araku</option>
+            <option value="munnar">munnar</option>
+            <option value="dwaraka">dwaraka</option>
+            </select>
+            <br><br>
+            <label for="Arrival date*:">Arrival date*:</label><br>
+            <input type="datetime-local" required placeholder="m/d/y">
+            <br><br>
+            <label for="Number of persons*:">Number of persons*:</label><br>
+            <input type="text" required placeholder="UNKNOW_TYPE">
+            <br><br>
+            <p>What would you want to avail?*</p>
+            <input type="checkbox">Boarding <br>
+            <input type="checkbox">Fooding <br>
+            <input type="checkbox">Sight seeing <br>
+            <br><br>
+            <label for="Discount Coupon code:">Discount Coupon code:</label><br>
+            <input type="text" required placeholder="UNKNOE_TYPE">
+            <br><br>
+            <label for="Terms and conditions*">Terms and conditions*</label><br>
+            <input type="radio"name="I agree">I agree
+            <input type="radio"name="I agree">I disagree
+            <br><br>
+            <input type="submit">
+            <button type="reset">reset</button>
+        </form>
+    </fieldset>
+</body>
+</html>

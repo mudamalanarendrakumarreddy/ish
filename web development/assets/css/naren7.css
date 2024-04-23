@@ -1,0 +1,23 @@
+body{
+    background-color: yellow;
+}
+#n{
+    border: 5px solid blanchedalmond;
+}
+#mn{
+    font-style: oblique;
+}
+h1{
+    text-align: center;
+}
+#mn{
+    text-align: center;
+}
+#mnkr{
+    border: 5px solid blanchedalmond ;
+    width:500px;
+    margin:auto;
+    
+}
+
+    

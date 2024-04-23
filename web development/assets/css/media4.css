@@ -1,0 +1,41 @@
+#t1>#div1{
+    color: orangered;
+}
+ul{
+    list-style-type: none;
+    justify-content: space-around;
+    display: flex;
+    color: aquamarine;
+}
+#t1>#div3>img{
+    width: 1100px;
+    height: 250px;
+}
+#t2{
+    display: flex;
+    width: 200px;
+    height: 200px;
+}
+#t2>#div2{
+    margin-left: 40px;
+}
+#t2>#div3{
+    margin-left: 40px;
+}
+#t2>#div4{
+    margin-left: 40px;
+}
+#t3{
+    display: flex;
+    width: 200px;
+    height: 200px;
+}
+#t3>#div2{
+    margin-left: 40px;
+}
+#t3>#div3{
+    margin-left: 40px;
+}
+#t3>#div4{
+    margin-left: 0px;
+}

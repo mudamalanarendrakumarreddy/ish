@@ -1,0 +1,75 @@
+#t1>#div1{
+    background-color: blueviolet;
+    width: 150px;
+    height: 150px;
+    position: absolute;
+    left: 20px;
+}
+#t1>#div2{
+    background-color: orange;
+    width: 150px;
+    height: 150px;
+    position: absolute;
+    left: 190px;
+}
+#t1>#div3{
+    background-color: blueviolet;
+    width: 150px;
+    height: 150px;
+    position: absolute;
+    left: 360px;
+}
+#t1>#div4{
+    background-color: orange;
+    width: 150px;
+    height: 150px;
+    position: absolute;
+    left: 530px;
+}
+#t1>#div5{
+    background-color: blueviolet;
+    width: 150px;
+    height: 150px;
+    position: absolute;
+    left: 700px;
+}
+#t2>#div1{
+    background-color: blueviolet;
+    width: 150px;
+    height: 150px;
+    position: absolute;
+    left: 20px;
+    top: 180px;
+}
+#t2>#div2{
+    background-color: orange;
+    width: 150px;
+    height: 150px;
+    position: absolute;
+    left: 190px;
+    top: 180px;
+}
+#t2>#div3{
+    background-color: blueviolet;
+    width: 150px;
+    height: 150px;
+    position: absolute;
+    left: 360px;
+    top: 180px;
+}
+#t2>#div4{
+    background-color: orange;
+    width: 150px;
+    height: 150px;
+    position: absolute;
+    left: 530px;
+    top: 180px;
+}
+#t2>#div5{
+    background-color: blueviolet;
+    width: 150px;
+    height: 150px;
+    position: absolute;
+    left: 700px;
+    top: 180px;
+}

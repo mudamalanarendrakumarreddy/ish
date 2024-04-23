@@ -1,0 +1,26 @@
+#mnkr{
+    border-style: dotted;
+    background-color: yellow;
+}
+#manoj{
+    background-color:brown;
+    border: 2px solid black;
+}
+#msr{
+    background-color: aqua;
+    border:2px solid brown;
+}
+#nn{
+    border: 2px solid black;
+    padding: 10px;
+}
+#nnn{
+    border: 2px solid black;
+    padding: 10px;
+    background-color: blue;
+}
+#nnnn{
+    border: 2px solid black;
+    padding: 10px;
+    background-color: grey;
+}

@@ -1,0 +1,36 @@
+#t1>#div1{
+    background-color: yellow;
+    border: 5px solid red;
+    width: 600px;
+    color: green;
+}
+#t1>#div3{
+    background-color: coral;
+    border-style: dotted;
+    color: blue;
+    width: 600px;
+}
+#t1>#div2>ul{
+    color: red;
+    list-style-type:none;
+    display:flex;
+    justify-content:space-evenly;
+    width:600px;
+}
+#t1>#div4{
+    color: red;;
+}
+#t2{
+    background-color: lightgreen;
+    border-style: dashed;
+    width: 600px;
+}
+#t2>#div1{
+    color: red;
+
+    
+}
+#t2>#div1>ol>li::first-letter {
+    color: #ff0000;
+    font-size: xx-large;
+  }

@@ -1,0 +1,32 @@
+@media screen  and (max-width:426px){
+    #t1>img{
+        /* width: 400px;
+        height: 200px;
+        margin-left: 5px; */
+       
+    }
+   img{
+   
+    width: 200px;
+    height: 100px;
+   }
+
+    
+}
+@media screen and(max-width:1025px) {
+    img{
+        width: 200px;
+    }
+}
+
+
+
+#t1{
+    display: flex;
+}
+
+img{
+    width: 300px;
+    height: 600px;
+    /* margin-left: 5px; */
+}

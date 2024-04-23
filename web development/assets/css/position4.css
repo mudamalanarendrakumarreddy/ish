@@ -1,0 +1,49 @@
+#t1{
+    text-align: center;
+}
+#t1>#div1{
+    position: absolute;
+    background-color: aquamarine;
+    width: 400px;
+    height: 300px;
+}
+#t1>#div2{
+    position: absolute;
+    background-color: brown;
+    width: 400px;
+    left: 50px;
+    top: 50px;
+    height: 50px;
+}
+#t1>#div3{
+    position: absolute;
+    background-color: blueviolet;
+    width: 400px;
+    left: 50px;
+    top:100px;
+    height: 50px;
+}
+#t1>#div4{
+    position: absolute;
+    background-color: gold;
+    width: 400px;
+    left: 50px;
+    top: 150px;
+    height: 50px;     
+}
+#t1>#div5{
+    position: absolute;
+    background-color: orange;
+    width: 400px;
+    left: 50px;
+    top: 200px;
+    height: 50px;
+}
+#t1>#div6{
+    position: absolute;
+    background-color: orange;
+    width: 400px;
+    left: 50px;
+    top: 250px;
+    height: px;
+}

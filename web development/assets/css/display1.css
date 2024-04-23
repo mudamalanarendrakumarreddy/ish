@@ -1,0 +1,32 @@
+div{
+    display: flex;
+}
+
+#m{    
+    background-color: blueviolet;
+    text-align: center;
+    width: 600px;
+    height: 70px;
+    line-height: 70px;
+}
+#mn{
+    background-color: burlywood;
+    text-align: center;
+    width: 200px;
+    height: 400px;
+    line-height: 400px;
+}
+#mnk{
+    background-color: plum;
+    text-align: center;
+    width: 400px;
+    height: 400px;
+    line-height: 400px;
+}
+#mnkr{
+    background-color: blueviolet;
+    text-align: center;
+    width: 600px;
+    height: 70px;
+    line-height: 70px;
+}

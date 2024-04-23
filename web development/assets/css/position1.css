@@ -1,0 +1,40 @@
+#t1{
+    position: relative;
+    background-color: blanchedalmond;
+}
+#t1>#div1{
+    position: absolute;
+    left: 30px;
+}
+#t1>#div2{
+    position: absolute;
+    left: 260px;
+}
+#t1>#div3{
+    position: absolute;
+    left: 490px;
+}
+#t1>#div4{
+    position: absolute;
+    left: 720px;
+}
+#t2{
+    position: relative;
+    background-color: blanchedalmond;
+}
+#t2>#div1{
+    position: absolute;
+    left: 30px;
+}
+#t2>#div2{
+    position: absolute;
+    left: 260px;
+}
+#t2>#div3{
+    position: absolute;
+    left: 490px;
+}
+#t2>#div4{
+    position: absolute;
+    left: 720px;
+}

@@ -1,0 +1,16 @@
+#t1{
+    border: 100px solid aquamarine;
+    width: 800px;
+    height: 180px;
+}
+#t1>#div3{
+    background-color: orangered;
+    width: 700px;
+    margin-left: 50px;
+}
+#t1>#div1{
+    margin-left: 50px;
+}
+#t1>#div2{
+    margin-left: 50px;
+}

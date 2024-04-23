@@ -1,0 +1,17 @@
+img{
+    width: 200px;
+    height: 200px;
+}
+#t1>#div1{
+    transform: rotate();
+}
+#t1>#div2{
+    transform: skew(30deg);
+}
+#t1>#div3{
+transform: skew(50deg);
+}
+#t1>#div4{
+    transform: rotate(20deg);
+    float: left;
+}

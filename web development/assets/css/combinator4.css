@@ -1,0 +1,23 @@
+#t1{
+    display: flex;
+}
+#t1>#div1{
+    width: 200px;
+    height: 200px;
+    opacity: 1;
+    text-align: center;
+}
+#t1>#div2{
+    width: 200px;
+    height: 200px;
+    opacity: 0.5;
+    margin-left: 100px;
+    text-align: center;
+}
+#t1>#div3{
+    width: 200px;
+    height: 200px;
+    opacity: 0.2;
+    margin-left: 100px;
+    text-align: center;
+}

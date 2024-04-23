@@ -1,0 +1,47 @@
+#t1>#div1{
+    border: 2px solid;
+    border-radius: 10px;
+    display: flex;
+    list-style-type: none;
+    justify-content: space-evenly;
+    background-color: gainsboro;
+}
+#t1>#div1>#black{
+    background-color: darkslategray;
+    border-radius: 4px;
+}
+#t2>#div1{
+    border: 2px solid;
+    display: flex;
+    list-style-type: none;
+    justify-content: space-evenly;
+    background-color: darkslategray;
+}
+#t2>#div1>#white{
+    background-color: white;
+    border-radius: 8px;
+}
+#t3>#div1{
+    border: 2px solid;
+    border-radius: 10px;
+    display: flex;
+    list-style-type: none;
+    justify-content: space-evenly;
+    background-color: gainsboro;
+}
+#t4>#div1{
+    border: 2px solid;
+    display: flex;
+    list-style-type: none;
+    justify-content: space-evenly;
+    background-color: darkslategray;
+    border-top-left-radius: 20px;
+    border-bottom-right-radius: 20px;
+    border-bottom-left-radius: 5px;
+    border-top-right-radius: 5px;
+}
+#t4>#div1>#white{
+    background-color: white;
+    border-radius: 8px;
+}
+

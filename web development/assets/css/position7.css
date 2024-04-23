@@ -1,0 +1,16 @@
+#t1{
+    position: relative;
+    width: 400px;
+    height: 400px;
+}
+#t1>#div1{
+    position: absolute;
+    z-index: 1;
+}
+#t1>#div2{
+    position: absolute;
+    z-index: 2;
+    left: 100px;
+    top: 100px;
+}
+

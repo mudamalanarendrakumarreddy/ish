@@ -1,0 +1,12 @@
+body{
+    background-color: blue;
+}
+*{
+    style-colour:white;
+}
+p,h3,h1{
+    color: white;
+}
+h2{
+    color: red;
+}

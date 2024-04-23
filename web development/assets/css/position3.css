@@ -1,0 +1,96 @@
+#t1>{
+    border-style: dotted;
+}
+#t1>#div1{
+    background-color: red;
+   width: 200px;
+   height: 200px;
+   position: absolute; 
+   left: 20px;
+}
+#t1>#div2{
+    background-color: green;
+   width: 200px;
+   height: 200px;
+   position: absolute;
+   left: 230px;
+}
+#t1>#div3{
+    background-color: red;
+   width: 200px;
+   height: 200px;
+   position: absolute; 
+   left: 440px;
+}
+#t1>#div4{
+    background-color: red;
+   width: 200px;
+   height: 200px;
+   position: absolute;
+   left: 650px; 
+}
+#t2{
+    position: relative;
+}
+#t2>#div1{
+    background-color: red;
+   width: 200px;
+   height: 200px;
+   position: absolute; 
+   left: 20px;
+}
+#t2>#div2{
+    background-color: red;
+   width: 200px;
+   height: 200px;
+   position: absolute;
+   left: 650px;
+}
+#t2>#div3{
+    background-color: red;
+   width: 200px;
+   height: 200px;
+   position: absolute; 
+   left: 440px;
+}
+#t2>#div4{
+    background-color: green;
+   width: 200px;
+   height: 200px;
+   position: absolute;
+   left: 260px;
+   top: 40px; 
+}
+#t3{
+    border: 2px solid;
+    position: absolute;
+}
+#t3>#div1{
+    background-color: red;
+   width: 200px;
+   height: 200px;
+   position: absolute; 
+   left: 20px;
+}
+#t3>#div2{
+    background-color: red;
+   width: 200px;
+   height: 200px;
+   position: absolute;
+   left: 230px;
+}
+#t3>#div3{
+    background-color: red;
+   width: 200px;
+   height: 200px;
+   position: absolute; 
+   left: 440px;
+}
+#t3>#div4{
+    background-color: green;
+   width: 200px;
+   height: 200px;
+   position: absolute;
+   left: 40px; 
+   top: 30px;
+}

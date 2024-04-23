@@ -1,0 +1,6 @@
+#t1>#div1{
+    background-color: orange;
+    list-style-type: none;
+    justify-content: space-evenly;
+    display: flex;
+}

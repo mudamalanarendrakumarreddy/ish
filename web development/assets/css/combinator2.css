@@ -1,0 +1,8 @@
+#t1>#div1{
+    color: blue;
+}
+#t1>#div1::first-letter {
+    color: #ff0000;
+    font-size: xx-large;
+    font-style: oblique;
+}

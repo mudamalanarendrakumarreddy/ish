@@ -1,0 +1,58 @@
+body{
+    border: 5px solid green;
+}
+#n1>div{
+    display: flex;
+}
+#n1>div>img{
+    border-radius: 500px;
+}
+#n2>div{
+    display: flex;
+    flex-direction: row-reverse;
+}
+#n2>div>img{
+    border-radius: 500px;
+}
+#n3>div{
+    display: flex;
+}
+#n3>div>img{
+    border-radius: 500px;
+}
+h1{
+    text-align:right;
+}
+#n4>div{
+    display: flex;
+    flex-direction: row-reverse;
+}
+#n4>div>img{
+    border-radius: 500px;
+}
+#n5>div{
+    display: flex;
+}
+#n5>div>img{
+    border-radius: 500px;
+}
+#n6>div{
+    display: flex;
+    flex-direction: row-reverse;
+}
+#n6>div>img{
+    border-radius: 500px;
+}
+#n7>div{
+    display: flex;
+}
+#n7>div>img{
+    border-radius: 500px;
+}
+#n8>div{
+    display: flex;
+    flex-direction: row-reverse;
+}
+#n8>div>img{
+    border-radius: 500px;
+}

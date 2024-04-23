@@ -1,0 +1,94 @@
+#t1{
+    border: 2px solid;
+}
+#t1>#div1{
+    background-color: green;
+    width: 200px;
+    height: 200px;
+    left: 500px;
+    position: absolute;
+    text-align: center;
+    line-height: 200px;
+}
+#t1>#div2{
+    background-color: green;
+    width: 200px;
+    height: 200px;
+    left: 750px;
+    position: absolute;
+    top: 100px;
+    text-align: center;
+    line-height: 200px;
+}
+#t1>#div3{
+    background-color: green;
+    width: 200px;
+    height: 200px;
+    left: 850px;
+    position: absolute;
+    top: 350px;
+    text-align: center;
+    line-height: 200px;
+}
+#t1>#div4{
+    background-color: green;
+    width: 200px;
+    height: 200px;
+    left: 750px;
+    position: absolute;
+    top: 600px;
+    text-align: center;
+    line-height: 200px;
+}
+#t1>#div5{
+    background-color: green;
+    width: 200px;
+    height: 200px;
+    left: 500px;
+    position: absolute;
+    top: 750px;
+    text-align: center;
+    line-height: 200px;
+}
+#t1>#div6{
+    background-color: green;
+    width: 200px;
+    height: 200px;
+    left: 250px;
+    position: absolute;
+    top: 600px;
+    text-align: center;
+    line-height: 200px;
+
+}
+#t1>#div7{
+    background-color: green;
+    width: 200px;
+    height: 200px;
+    left: 150px;
+    position: absolute;
+    top: 350px;
+    text-align: center;
+    line-height: 200px;
+}
+#t1>#div8{
+    background-color: green;
+    width: 200px;
+    height: 200px;
+    left: 250px;
+    position: absolute;
+    top: 100px;
+    text-align: center;
+    line-height: 200px;
+}
+#t1>#div9{
+    border-radius: 500px;
+    background-color: yellow;
+    width: 200px;
+    height: 200px;
+    left: 500px;
+    position: absolute;
+    top: 350px;
+    text-align: center;
+    line-height: 200px;
+}
